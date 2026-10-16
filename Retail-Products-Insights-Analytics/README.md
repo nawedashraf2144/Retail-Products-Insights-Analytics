@@ -17,3 +17,7 @@
 -- Office Supplies: Saw its peak sales in February 2023, likely linked to new-year office restocking cycles.
 
 -- Technology: Reached its highest sales in October 2023, continuing the upward trend in tech-related purchases and upgrades.
+
+## Conclusion
+
+This analysis highlights year-over-year profit growth across product subcategories and monthly sales trends across product categories. Machines recorded the highest profit growth, while Copiers experienced the lowest. The findings help identify high-performing categories and support data-driven business decisions.
